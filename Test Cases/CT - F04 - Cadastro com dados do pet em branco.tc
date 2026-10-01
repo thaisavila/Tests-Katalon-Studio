@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F04 - Cadastro com dados do pet em branco</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>beab39de-c8c1-4e47-9cad-4f7b738bc488</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Digite o peso do seu Pet</name>
+   <tag></tag>
+   <elementGuidId>d96f2e2b-90e5-4d86-9681-713c2ae03e4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#peso_pet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'peso_pet']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'number' and @id = 'peso_pet' and @name = 'peso_pet' and @placeholder = 'Digite o peso do seu Pet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Digite o peso do seu Pet&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>62bb204d-b7c0-4a70-b61b-3473954e29da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>a170406b-1c45-45e0-9d02-becb06b2c755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>peso_pet</value>
+      <webElementGuid>df21ef0b-0d5e-4875-93fc-7e852ed3277b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>peso_pet</value>
+      <webElementGuid>c3f68580-9800-4ded-886b-82ebce1cc9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Digite o peso do seu Pet</value>
+      <webElementGuid>701aa3ac-d103-4f34-a0ad-664dbcc3b765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>function_peso_pet()</value>
+      <webElementGuid>2f9c87a8-4db3-48e6-8829-48faab40d5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c83060599509d3a855254a99659d53c6</value>
+      <webElementGuid>a961c3ad-8440-4dbd-a81b-c94cac02d305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'peso_pet']</value>
+      <webElementGuid>41f6e5af-115e-48ee-b463-16032a976a29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'peso_pet']</value>
+      <webElementGuid>897307a3-9263-4ff4-8f4c-f112383b1165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @id = 'peso_pet' and @name = 'peso_pet' and @placeholder = 'Digite o peso do seu Pet']</value>
+      <webElementGuid>035f05d0-7332-4a5f-8aac-ccaad8f70604</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

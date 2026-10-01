@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Digite a espcie do seu Pet</name>
+   <tag></tag>
+   <elementGuidId>fae9f387-4a0f-4c2d-9303-a2bfc3a436f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#especie</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'especie']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'especie' and @name = 'especie' and @placeholder = 'Digite a espécie do seu Pet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Digite a espécie do seu Pet&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3c0395b9-84a3-4f4d-bcc3-17f6bbaa22f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>20420946-a5c7-48df-ac81-5dd00ab1fc2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>especie</value>
+      <webElementGuid>6444753a-bc25-44ba-bc92-b38fb447d337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>especie</value>
+      <webElementGuid>66bc1089-f822-4280-96e4-96894b8602b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Digite a espécie do seu Pet</value>
+      <webElementGuid>c00e7758-c27b-492f-a4a1-9facd619338e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>function_especie()</value>
+      <webElementGuid>e028eedd-3d08-49cf-af55-51a2f02495a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2ad65fc2b678728dd1bca50e2e9ec859</value>
+      <webElementGuid>a1cff34f-a757-4e40-8444-3d1a035e5436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'especie']</value>
+      <webElementGuid>c61b8fe8-bfd6-4d16-8481-c7757ffc3ab4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'especie']</value>
+      <webElementGuid>fde98f00-7771-430e-99e5-ea13ffd08fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'especie' and @name = 'especie' and @placeholder = 'Digite a espécie do seu Pet']</value>
+      <webElementGuid>7410e714-9de1-4982-be71-3f585576e8d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

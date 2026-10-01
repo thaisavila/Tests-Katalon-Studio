@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F19 - Agendar 2 Serviços Diferentes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41360947-9eec-41ba-80de-a34a2aefbcdf</testCaseGuid>
+</TestCaseEntity>

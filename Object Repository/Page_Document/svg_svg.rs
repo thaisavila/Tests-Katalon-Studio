@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_svg</name>
+   <tag></tag>
+   <elementGuidId>c74b45ee-5705-44be-bfe4-566341e7443d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@stroke = 'white']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@stroke = 'white']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.card:nth-child(1) [stroke=&quot;white&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#category-services-grid div >> internal:has-text=&quot;Banho + Tosa Higiênica Banho e tosa das regiões íntimas R$ 65.00 1h30min Agendar&quot;i >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>70395694-3512-4324-958f-99da93efedbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>485aa54d-c2a5-4338-99cd-e66a86d7fba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>7972582b-95e2-437d-a36e-3af04440fa49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>e0041175-6fd5-4061-a087-d58435061264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>79bdb94d-2e64-40c9-9252-bf4f95abdefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>b332d1cc-b8ad-42fd-9830-a1bbc74b27d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2.2</value>
+      <webElementGuid>73e65d6f-aa14-46b3-90a9-dd669e3899de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f87e869eb3ad1f94f834fced4bfd95b7</value>
+      <webElementGuid>c8d0fadb-9131-4c44-b567-59ab5a2347b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@stroke = 'white']</value>
+      <webElementGuid>b69d025d-9149-4dec-a888-2d23271ce67a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@stroke = 'white']</value>
+      <webElementGuid>fb571c48-6685-4c1b-8ad3-6628a475bab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cart-btn ')]//*[@stroke = 'currentColor']</value>
+      <webElementGuid>e48ad3e2-de48-4110-8c39-9ff2c597a8a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

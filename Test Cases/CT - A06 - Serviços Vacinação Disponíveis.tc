@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - A06 - Serviços Vacinação Disponíveis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0fdb8ab-7ce0-4ef0-b148-5499e18bd0a6</testCaseGuid>
+</TestCaseEntity>

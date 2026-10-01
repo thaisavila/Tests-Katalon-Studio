@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - A07 - Serviços Exames Disponíveis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4923981-432d-44e8-abc8-13ad54d2749c</testCaseGuid>
+</TestCaseEntity>

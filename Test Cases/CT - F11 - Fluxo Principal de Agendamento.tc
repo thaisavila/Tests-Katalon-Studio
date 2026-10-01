@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F11 - Fluxo Principal de Agendamento</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73002e53-d225-4e0e-b4ca-4f1fd842fdb0</testCaseGuid>
+</TestCaseEntity>

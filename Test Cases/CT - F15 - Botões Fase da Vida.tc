@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se todos os botoes referentes a fase da vida do animal na aba de agendamentos funciona</description>
+   <name>CT - F15 - Botões Fase da Vida</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc0e74bf-94c0-4a01-88c4-b3ac8556f3c2</testCaseGuid>
+</TestCaseEntity>

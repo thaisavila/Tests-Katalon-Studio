@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contato</name>
+   <tag></tag>
+   <elementGuidId>80f21800-b625-41d5-be4d-f4ccd123ed1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-links ')]//*[@href = 'index.html#contato']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-links [href=&quot;index\.html\#contato&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Contato&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1580952d-240b-4fdd-9ac0-8085a1a7c1b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.html#contato</value>
+      <webElementGuid>37181134-97b2-4a9d-b404-4cdb6b435b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contato</value>
+      <webElementGuid>2012cef6-5e21-47f8-b32a-29d4348c4ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b30829ce388b805dea2e448bd9d437e6</value>
+      <webElementGuid>b773a9d8-26b8-466c-b611-20da6ef4d9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-links ')]//*[@href = 'index.html#contato']</value>
+      <webElementGuid>747f8f08-8d3b-48d2-ade6-79f7f7d4795e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-links ')]//*[@href = 'index.html#contato']</value>
+      <webElementGuid>f634ee7d-637d-4064-83f9-2a6d5e6d5eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.html#contato' and (text() = 'Contato' or . = 'Contato')]</value>
+      <webElementGuid>517d1631-00c6-4020-8793-3f071b5e42ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

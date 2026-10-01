@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Digite a raa do seu Pet</name>
+   <tag></tag>
+   <elementGuidId>fda718cb-70a0-4dba-8ad1-1d5ac6d32611</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#raca</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'raca']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'raca' and @name = 'raca' and @placeholder = 'Digite a raça do seu Pet']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Digite a raça do seu Pet&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>23f53bb8-786c-47d9-b05c-10dd9e018fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c411ac84-f801-475e-b0ee-be440aa98b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>raca</value>
+      <webElementGuid>131928d3-2ea6-48d4-80a6-7318bd4606d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>raca</value>
+      <webElementGuid>01b663ab-5475-492d-bd63-04cfb4dd4c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Digite a raça do seu Pet</value>
+      <webElementGuid>8857ece6-b48b-469c-808a-46946e67f471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>function_raca()</value>
+      <webElementGuid>e6bb3ee8-5f87-4126-a43f-3e9c7f064fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c6cf7829f8416ecc9ba33340e2a2e6f5</value>
+      <webElementGuid>fcd4ee0b-04cf-4c33-820e-6b0280844e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'raca']</value>
+      <webElementGuid>fadf9baf-3849-46e4-a46e-d6c003a9b738</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'raca']</value>
+      <webElementGuid>4f3e2df2-c63c-46d1-9822-f1277635edab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'raca' and @name = 'raca' and @placeholder = 'Digite a raça do seu Pet']</value>
+      <webElementGuid>ae47191e-5c8b-460e-862f-12329996716a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se a barra de pesquisa funciona quando pesquisa um serviço específico dentro de uma categoria</description>
+   <name>CT - F10 - Banho de Pesquisa com Serviço Específico</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dffe118-2e3f-46f7-b674-6a0e20c3e670</testCaseGuid>
+</TestCaseEntity>

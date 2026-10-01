@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - A05 - Serviços Consultas Disponíveis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55ba0e2e-2226-4309-9de9-d8666f630a43</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F12 - Botões de Horário no Agendamento</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee426e81-10ee-4fe6-9d78-399002392213</testCaseGuid>
+</TestCaseEntity>

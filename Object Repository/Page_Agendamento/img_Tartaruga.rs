@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tartaruga</name>
+   <tag></tag>
+   <elementGuidId>9a4d9aa9-06ea-43b5-af5e-c5297738c6c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@src = 'assets/tartaruga.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[src=&quot;assets\/tartaruga\.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Tartaruga&quot;i >> img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1ac3b8df-761f-4501-bf8d-0ad4b195d955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/tartaruga.png</value>
+      <webElementGuid>fa61e3b6-703d-49f2-b3c6-291174ad4eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30px</value>
+      <webElementGuid>9de60942-9775-44de-a2b0-89fb85df7b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c6745e15ddd1f4dc503b131cc572edbb</value>
+      <webElementGuid>f6cf9163-c55b-4c12-9ed3-36d0b88690b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@src = 'assets/tartaruga.png']</value>
+      <webElementGuid>13351f88-9888-4319-ba94-137c30df85af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@src = 'assets/tartaruga.png']</value>
+      <webElementGuid>c8a44494-b005-4b84-ae7b-110f077d1d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/tartaruga.png']</value>
+      <webElementGuid>fd79972f-56ca-4977-ab2c-3cc6247afb43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

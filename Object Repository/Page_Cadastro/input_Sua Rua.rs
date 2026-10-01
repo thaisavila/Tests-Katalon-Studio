@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Sua Rua</name>
+   <tag></tag>
+   <elementGuidId>9591996e-34b0-4a72-a97c-c67310600a08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#endereco</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'endereco']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'endereco' and @name = 'endereco' and @placeholder = 'Sua Rua']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Sua Rua&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fbff21a6-2a61-4c85-933f-e6b3680e3e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8ace13a7-5acc-4d39-bb5d-a90102caf226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>endereco</value>
+      <webElementGuid>9a37b205-4fc4-44d9-bac3-eae02ab3a393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>endereco</value>
+      <webElementGuid>5a8dc12b-2c5a-49d9-a78a-6ced6d34b6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Sua Rua</value>
+      <webElementGuid>7fc9a33a-1cf2-4024-a5d9-fc2cbeac3e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>erro_endereco()</value>
+      <webElementGuid>3763626b-0d9c-4ec4-a69b-06b2046b0b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c666a4111affc97d1c05e26f6f8af84b</value>
+      <webElementGuid>cbf9483e-a6c3-47b0-90f7-86c19047dfd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'endereco']</value>
+      <webElementGuid>ea916b60-f102-4282-ab82-59b0275723bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'endereco']</value>
+      <webElementGuid>25295363-d907-4267-9efe-20a0f019f2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'endereco' and @name = 'endereco' and @placeholder = 'Sua Rua']</value>
+      <webElementGuid>d273a655-0501-4aa8-bee2-6fad3e9a9e57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

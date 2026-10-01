@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F17 - Cancelar com a opção lixeira</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79619979-c021-4d2c-a0f8-7bd6d2783fb4</testCaseGuid>
+</TestCaseEntity>

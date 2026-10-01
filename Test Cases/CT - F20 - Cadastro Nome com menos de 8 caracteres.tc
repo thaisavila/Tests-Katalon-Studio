@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F20 - Cadastro Nome com menos de 8 caracteres</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5cd9abe-3223-4fe8-ab6e-e8dcdce4a105</testCaseGuid>
+</TestCaseEntity>

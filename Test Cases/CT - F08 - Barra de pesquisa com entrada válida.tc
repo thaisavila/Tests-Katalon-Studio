@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se a barra de pesquisa funciona com entrada válida - quando pesquisa banho aparece 1 resultado: Banho e tosa</description>
+   <name>CT - F08 - Barra de pesquisa com entrada válida</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d24ddf4b-8b5a-4ae2-ac3e-454cdf01dfb2</testCaseGuid>
+</TestCaseEntity>

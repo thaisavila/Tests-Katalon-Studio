@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se ao fazer o cadastro o usuário informa um email válido</description>
+   <name>CT - F07 - Cadastro com Email Inválido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20019c16-dd57-4332-9d65-f7affc503789</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se ao pesquisar um serviço que nao está no site não aparece nenhum resultado</description>
+   <name>CT - F09 - Barra de Pesquisa com Entrada Inválida</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a94891b8-4b06-448e-a943-4abd5973d625</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - A02 - Serviços Mais Procurados na Página Inicial</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b90e1526-8a62-419a-838c-bed7ddb679a9</testCaseGuid>
+</TestCaseEntity>

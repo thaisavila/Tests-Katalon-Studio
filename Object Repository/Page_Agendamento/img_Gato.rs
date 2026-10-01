@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Gato</name>
+   <tag></tag>
+   <elementGuidId>601d0c58-807a-4128-845e-d2d792e2ea42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[src=&quot;assets\/gato\.png&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@src = 'assets/gato.png']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'assets/gato.png']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Gato&quot;i >> img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>71f8f833-f304-4822-ac98-f2892e3d3290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/gato.png</value>
+      <webElementGuid>55e30db1-95fe-43f9-b84d-666dc185f0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30px</value>
+      <webElementGuid>485bcc3f-5591-4dc1-9273-86bf82d511a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5b7a72c9eccdc58b61dba20e1d3c4fe4</value>
+      <webElementGuid>76806fe1-ed20-481d-8301-186aad487660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@src = 'assets/gato.png']</value>
+      <webElementGuid>122bfb60-21f7-4916-8d40-cb602bc17dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@src = 'assets/gato.png']</value>
+      <webElementGuid>9eac109b-ea20-44d6-8caf-ed05397578cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/gato.png']</value>
+      <webElementGuid>18ca6959-f115-4a10-be2c-fbd712db7905</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

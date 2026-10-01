@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se todos os botoes referentes ao porte do animal na aba de agendamentos funciona</description>
+   <name>CT - F14 - Botões Porte do Animal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e3ba2ea-d07c-4384-a00c-677d80a56dfd</testCaseGuid>
+</TestCaseEntity>

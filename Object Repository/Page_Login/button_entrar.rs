@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_entrar</name>
+   <tag></tag>
+   <elementGuidId>3a82c615-7105-4dbc-9316-75a513e97751</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'entrar' and @type = 'submit' and (text() = 'Entrar na conta' or . = 'Entrar na conta')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'entrar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#entrar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Entrar na conta&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>938e9941-e7d3-4996-a25f-156c8e28af38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>entrar</value>
+      <webElementGuid>58e7b47e-c7ab-4011-8706-e1d15ac74ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7c9c656b-29cf-4cc0-987f-a7e8f372028f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrar na conta</value>
+      <webElementGuid>219868f7-b776-46ce-9dc2-92f67f3a5101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1b5fa8911cc81fe62f469d98c771035c</value>
+      <webElementGuid>50777da4-48fb-4b0c-a759-4e12d90cdb6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'entrar']</value>
+      <webElementGuid>83f409bb-608c-4f45-98b6-b879097935cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'entrar']</value>
+      <webElementGuid>c11c9035-bee8-474b-b0d4-801d57a95aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'entrar' and @type = 'submit' and (text() = 'Entrar na conta' or . = 'Entrar na conta')]</value>
+      <webElementGuid>b2f38dbf-a9ef-4581-b143-dd20e5ae06ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

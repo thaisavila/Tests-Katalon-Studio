@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - A04 - Serviços de Banho e Tosa Disponíveis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef33761c-d725-46eb-9e3e-9903bc214df2</testCaseGuid>
+</TestCaseEntity>

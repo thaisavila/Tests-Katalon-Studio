@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifica se o sistema não permite que o usuário faça login usando um usuário inválido</description>
+   <name>CT - F02 - Login com usuário inválido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5998c435-cc9a-4c1b-9be2-f1c13b1c1680</testCaseGuid>
+</TestCaseEntity>

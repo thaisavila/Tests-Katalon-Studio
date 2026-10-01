@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F06 - Cadastro Nome Válido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6856ad85-a2d9-4215-a58b-356eababb73e</testCaseGuid>
+</TestCaseEntity>

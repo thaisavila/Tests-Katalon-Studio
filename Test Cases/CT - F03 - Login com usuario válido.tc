@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - F03 - Login com usuario válido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fd378a8-66cf-461e-86a8-2cc3302faed1</testCaseGuid>
+</TestCaseEntity>
