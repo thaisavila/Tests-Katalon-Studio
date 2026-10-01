@@ -26,3 +26,8 @@ WebUI.click(findTestObject('Page_Document/div_card-img-overlay'))
 
 WebUI.click(findTestObject('Page_Document/div_Vacinao'))
 
+WebUI.verifyTextPresent('Antirrábica', false)
+WebUI.verifyTextPresent('FeLV', false)
+WebUI.verifyTextPresent('Gripe Canina', false)
+WebUI.verifyTextPresent('Tríplice Felina', false)
+WebUI.verifyTextPresent('V8 / V10 (Polivalente)', false)

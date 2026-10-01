@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - API2 - Login válido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5854ce05-6454-43d8-9ed4-e8af819f5878</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - API5 - Detalhar Categorias</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>031c9d1b-b030-4de0-9d4f-67021c6b3e06</testCaseGuid>
+</TestCaseEntity>

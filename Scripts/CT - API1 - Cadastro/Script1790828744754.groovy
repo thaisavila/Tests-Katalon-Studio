@@ -17,17 +17,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import static com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 
-WebUI.openBrowser(null)
+WS.sendRequest(findTestObject('API1- Cadastro'))
 
-WebUI.navigateToUrl('http://127.0.0.1:5500/')
-
-WebUI.click(findTestObject('Page_Document/div_card-img-overlay'))
-
-WebUI.click(findTestObject('Page_Document/div_Voltar'))
-
-WebUI.verifyTextPresent('Adestramento Avançado', false)
-WebUI.verifyTextPresent('Adestramento Básico', false)
-WebUI.verifyTextPresent('Adestramento para Idosos', false)
-WebUI.verifyTextPresent('Correção Comportamental', false)
-WebUI.verifyTextPresent('Dog Walking com Adestrador', false)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - API6 - Serviços por Categoria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06a81ebe-20a7-4200-869d-46aee59b9c70</testCaseGuid>
+</TestCaseEntity>

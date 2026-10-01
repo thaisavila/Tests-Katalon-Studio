@@ -26,3 +26,8 @@ WebUI.click(findTestObject('Page_Document/div_card-img-overlay'))
 
 WebUI.click(findTestObject('Page_Document/div_Exames'))
 
+WebUI.verifyTextPresent('Eletrocardiograma', false)
+WebUI.verifyTextPresent('Hemograma Completo', false)
+WebUI.verifyTextPresent('Perfil Bioquímico', false)
+WebUI.verifyTextPresent('Raio-X', false)
+WebUI.verifyTextPresent('Ultrassonografia', false)

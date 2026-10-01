@@ -31,6 +31,6 @@ WebUI.setEncryptedText(findTestObject('Page_Login/input_Digite sua senha'), 'Rig
 WebUI.click(findTestObject('Page_Login/button_entrar'))
 
 WebUI.verifyTextPresent(
-	'Login realizado com sucesso. Olá, Thais!',
+	'Login realizado com sucesso. Olá Thaís Ávila',
 	false
 )

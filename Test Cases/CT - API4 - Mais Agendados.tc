@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - API4 - Mais Agendados</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49dc6a21-9847-4e8a-a877-e494dfce1d2f</testCaseGuid>
+</TestCaseEntity>

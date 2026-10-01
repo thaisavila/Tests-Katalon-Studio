@@ -26,3 +26,8 @@ WebUI.click(findTestObject('Page_Document/div_card-img-overlay'))
 
 WebUI.click(findTestObject('Page_Document/div_Hospedagem'))
 
+WebUI.verifyTextPresent('Day Care', false)
+WebUI.verifyTextPresent('Hospedagem para Gatos', false)
+WebUI.verifyTextPresent('Hospedagem - Cão Grande', false)
+WebUI.verifyTextPresent('Hospedagem - Cão Pequeno', false)
+WebUI.verifyTextPresent('Hotel Pet Premium', false)

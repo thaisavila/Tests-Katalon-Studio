@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT - API1 - Cadastro</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdfd8318-fd24-4ffb-a0e4-aef41b84f204</testCaseGuid>
+</TestCaseEntity>
