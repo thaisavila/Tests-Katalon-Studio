@@ -17,7 +17,7 @@ Katalon Studio (versão gratuita/Community)
 ## ▶️ Como Rodar os Testes
 ### Pré-requisitos
 - Katalon Studio instalado (baixe em https://www.katalon.com/)
-- Sistema web pet shop rodando em localhost
+- Sistema web pet shop rodando em localhost (https://github.com/thaisavila/Web-Pet-Shop)
 - Backend rodando (API FastAPI em http://localhost:8000)
 
 ### Passos para Execução
