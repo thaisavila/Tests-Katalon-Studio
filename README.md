@@ -1,4 +1,4 @@
-#🧪 Projeto de Automação de Testes com Katalon Studio
+# 🧪 Projeto de Automação de Testes com Katalon Studio
 
 ## 📌 Sobre o Projeto
 Este repositório contém os casos de teste automatizados desenvolvidos com Katalon Studio para um sistema de Pet Shop. O projeto faz parte de um trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas e tem como objetivo demonstrar a aplicação de testes automatizados em aplicações web.
