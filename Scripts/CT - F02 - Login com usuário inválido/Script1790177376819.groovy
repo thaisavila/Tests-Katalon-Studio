@@ -33,19 +33,12 @@ WebUI.click(findTestObject('Page_Login/label_Manter conectado'))
 WebUI.click(findTestObject('Page_Login/button_entrar'))
 
 // Verifica se o alerta apareceu (aguarda até 5 segundos)
-boolean alertaPresente = WebUI.verifyAlertPresent(5)
+WebUI.verifyAlertPresent(5)
 
-if (alertaPresente) {
-	// Captura o texto do alerta
-	String textoAlerta = WebUI.getAlertText()
+// String textoAlerta = WebUI.getAlertText()
 	
-	// Valida se o texto está correto
-	WebUI.verifyMatch(textoAlerta, 'Email ou Senha Incorretos', false)
+// Valida se o texto está correto
+WebUI.verifyMatch(WebUI.getAlertText(), 'Email ou Senha Incorretos', false)
 	
-	WebUI.comment('✅ Alerta correto: ' + textoAlerta)
-	
-	// Aceita o alerta (clica em OK)
-	WebUI.acceptAlert()
-} else {
-	WebUI.comment('❌ Alerta NÃO apareceu!')
-}
+// Aceita o alerta (clica em OK)
+WebUI.acceptAlert()
